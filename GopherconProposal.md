@@ -29,16 +29,16 @@ This will be an opinionated class following a flow that can be replicated over a
 
 **Sample Outline**
 1. Files, Directories and Programs - Look at the key concepts for managing files and directories, creating files
-3. Where Do I Put Things - Go Directory Structure
-4. Starting a Go Project
-5. The Editor - Laying out the editor windows for efficiency and shortcut keys
-6. Start Creating a Go Program
-7. Testing The Program - Unit and Manual
-8. Building the Program and Running - Save, auto build, reload and test flow
-9. Pushing Code to the Repo
-10. More Code, Bigger Project, Where to Begin - Breaking down more complex projects
-11. Using Other Peoples Code Through Libraries - go get
-12. Where can you go from here?
+2. Where Do I Put Things - Go Directory Structure
+3. Starting a Go Project
+4. The Editor - Laying out the editor windows for efficiency and shortcut keys
+5. Start Creating a Go Program
+6. Testing The Program - Unit and Manual
+7. Building the Program and Running - Save, auto build, reload and test flow
+8. Pushing Code to the Repo
+9. More Code, Bigger Project, Where to Begin - Breaking down more complex projects
+10. Using Other Peoples Code Through Libraries - go get
+11. Where can you go from here?
 
 --------------------------------------
 --------------------------------------
