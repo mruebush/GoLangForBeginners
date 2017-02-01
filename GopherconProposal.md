@@ -72,5 +72,9 @@ This will be an opinionated class following a flow that can be replicated over a
 *This field supports Markdown. Your bio sells you. Who are you? Why should people listen to you? Who's your favorite member of One Direction? 
 This is your chance to put it all out there.*
 
+Kaylyn Gibilterra is a gopher from Capital One Labs and a firm believer that Go is one of the best languages in the world for first time developers.  
+She is a founder of the Women Who Code DC network where she taught workshops and mentored dozens of engineers through their successful transitions into tech.  
+Most importantly, she loves history, rooftop views, and the color maroon.
+
 Mitch Ruebush is the Dean of Software Engineering for the Tech College at Capital One. Curator of content, passionate about learning, creator of opportunities, travels the world, seeker of adventure and builder of things. He is responsible teams that build the infrastructure for the college and the creation and curation of awesome content. He has been in software development professionally for 20 years and as a hobbiest for many more. He studied Biochemistry and English at the University of New Mexico and has written many books and articles on programming and various topics over the years.
 
